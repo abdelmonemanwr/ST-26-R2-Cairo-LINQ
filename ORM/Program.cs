@@ -56,7 +56,6 @@
             // 5. Extension Method
             #endregion
 
-
             var sss = new Student() { Id = 5, FName = "Youssef", LName = "Maurice", Age = 20, DeptId = 1 }; 
             List<Student> sts = new List<Student>()
             {
