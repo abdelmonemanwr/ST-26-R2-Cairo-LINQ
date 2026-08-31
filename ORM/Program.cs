@@ -1,4 +1,4 @@
-﻿namespace ORM
+﻿namespace Day1
 {
     internal class Program
     {
@@ -289,7 +289,6 @@
             //}
             #endregion
 
-
             #region Group By
             //var q46 = sts.GroupBy(s => s.DeptId);  // act as dictionary
             //foreach (var item in q46)
@@ -369,8 +368,6 @@
             //    Console.WriteLine(x);
 
             #endregion
-
-
         }
     }
 }
