@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ORM
+namespace Day1
 {
     internal class StudentComparer : IEqualityComparer<Student>
     {

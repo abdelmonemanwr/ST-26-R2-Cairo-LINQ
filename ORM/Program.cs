@@ -1,4 +1,4 @@
-﻿namespace ORM
+﻿namespace Day1
 {
     internal class Program
     {
